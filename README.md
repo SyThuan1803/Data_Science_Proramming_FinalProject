@@ -1,10 +1,15 @@
 # Data_Science_Proramming_FinalProject
-## Thành viên
-### 1/
-Họ tên: Nguyễn Minh Phúc </br>
-MSSV: 19120119 </br>
-Tài khoản Github: chilavisaoss@gmail.com </br>
-### 2/
-Họ tên: Lê Sỹ Thuần </br>
-MSSV: 19120387 </br>
-Tài khoản Github: sythuan1803@gmail.com </br>
+
+### *Danh sách thành viên:*
+
+<center>
+    
+|   MSSV   |      Họ tên      | Tài khoản Github |
+|:--------:|:----------------:|:----------------:|
+| 19120119 | Nguyễn Minh Phúc |   [youngtobesick](https://github.com/youngtobesick)  |
+| 19120387 |    Lê Sỹ Thuần   |    [SyThuan1803](https://github.com/SyThuan1803)   |
+    
+</center>
+
+### *Kế hoạch làm việc:* 
+[Xem tại đây](https://docs.google.com/spreadsheets/d/1DCq30ORIH6m-1EYMnbUmZ8fBoxPiiCgRgLDpJaRKRVE/edit?usp=sharing)
